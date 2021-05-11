@@ -138,7 +138,7 @@ body {
 }
 .mobile-menu-item:hover {
   color: var(--c-accent);
-  font-size: 25px;
+  font-size: 20px;
   transition: var(--animation-transition);
 }
 .mobile-menu-contacts {
